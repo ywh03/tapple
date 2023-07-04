@@ -1,0 +1,48 @@
+body {
+    font-family: Merriweather, sans-serif;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.letter-button {
+    height: 5rem;
+    width: 5rem;
+    font-size: 2rem;
+}
+
+.button-disabled {
+    background-color: red;
+}
+
+.button-enabled {
+    background-color: green;
+}
+
+.category-heading {
+    font-size: 4rem;
+    text-align: center;
+}
+
+.green {
+    color: green;
+}
+.yellow {
+    color: yellow;
+}
+
+.red {
+    color: red;
+}
+
+.player-display {
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+.key-area {
+    padding: 5% 4%;
+}
+
+.timer-area {
+    font-size: 2rem;
+}
